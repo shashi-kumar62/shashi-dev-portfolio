@@ -3,7 +3,7 @@
 Welcome to my personal developer portfolio repository!  
 This portfolio showcases my projects, technical skills, and experience as an AIML Engineer & Full Stack Developer.
 
-🌐 **Live Website:** (Add your Netlify link here)  
+🌐 **Live Website:** https://shashidevportfolio.netlify.app/ 
 📂 **GitHub Repo:** https://github.com/shashi-kumar62/shashi-kumar-portfolio  
 
 
